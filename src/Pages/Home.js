@@ -37,7 +37,7 @@ const Home = () => {
               <Grid.Column key={item} >
                 <Card>
                   <Card.Content  >
-                    {/* <Image 
+                    <Image 
                     src={item.img}
                     size='medium'
                     style={{
@@ -45,7 +45,7 @@ const Home = () => {
                               width:'150px',
                               borderRadius:'50%'
                           }}
-                          /> */}
+                          />
                   </Card.Content>
                   <Card.Content>
                   {item.email}
