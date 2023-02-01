@@ -40,6 +40,7 @@ const Home = () => {
                     <Image 
                     src={item.img}
                     size='medium'
+                    
                     style={{
                              height:'150px',
                               width:'150px',
